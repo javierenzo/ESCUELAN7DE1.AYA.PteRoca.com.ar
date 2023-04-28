@@ -908,7 +908,8 @@ section
 
 .popular
 {
-
+	padding: 0;
+	margin: 0;
 }
 .course_boxes
 {
@@ -1134,6 +1135,8 @@ input:last-of-type
 
 .services
 {
+	padding: 0;
+ 	margin: 0;
 	padding-bottom: 76px;
 }
 .services_row
