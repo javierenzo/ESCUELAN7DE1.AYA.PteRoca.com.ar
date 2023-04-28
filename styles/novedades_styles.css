@@ -83,7 +83,7 @@ ul
 p
 {
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
+	font-size: 25px;
 	line-height: 2.29;
 	font-weight: 400;
 	color: #a5a5a5;
@@ -1052,7 +1052,7 @@ section
 }
 .novedades_post
 {
-	margin-bottom: 85px;
+	margin-bottom: 8px;
 }
 .novedades_post:last-child
 {
